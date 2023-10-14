@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Aplicação
 
-Você pode visualizar a aplicação do projeto através [DESSE LINK]()
+Você pode visualizar a aplicação do projeto através [DESSE LINK](https://fiap-cap-12-fase-2.vercel.app/)
 
 ## :memo: Licença
 
